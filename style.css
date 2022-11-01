@@ -1,9 +1,15 @@
-body{
-    font-size: 30px;
-}
-h1{background-color: rgb(125, 125, 206);
-}
-p{background-color: rgb(125, 125, 206);}
-body{background-color: rgb(8, 35, 83);
+p {font-size: 20px;
+color: black;
 text-align: center;
-color: rgb(240, 248, 255);}
+} 
+
+h1 {font-size: 30px;
+    color: rgb(44, 43, 40)
+    ; text-align: center;
+}  
+ body {background-color: darkgray;}
+
+
+
+
+
