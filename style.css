@@ -1,29 +1,10 @@
-body {background-color: grey}
-h1 {font-size: 30px;
-    color: black
-    ; text-align: center;
-    background-color: chocolate;
-}  
- 
-
- h2 {text-align: center;
-color: black;
-font-size: 30px;
-background-color: coral;
-}
- 
- h3 {font-size: 20px;
-color:black;
-text-align: justify;
-}
-
-p {font-size: 20px;
-color: black;
-text-align: justify;
-} 
-
-
-
-
-
-
+    body{
+        font-size: 30px;
+        background-color: red;
+    text-align: center;
+    color: rgb(240, 248, 255);
+    }
+    h1{color: aliceblue;
+    }
+    p{color: aliceblue;}
+  
